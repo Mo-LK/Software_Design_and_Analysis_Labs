@@ -1,0 +1,154 @@
+Creating the LOG1410 Recipe Book
+Creating Product Catalog
+The catalog of products:
+Category: All products
+	Category: Produits de cuisson
+		farine(from Quebec) $6.99 (2000g)
+		eau(from Quebec) $0.99 (1000g)
+		levure(from Quebec) $4.99 (100g)
+		sucre(from Quebec) $2.99 (2000g)
+		sel(from Quebec) $1.79 (1000g)
+		huile(from Italie) $8.99 (1000g)
+
+	Category: Legumes
+		tomates(from Canada) $1.33 (796g)
+		oignons(from Quebec) $1.99 (1000g)
+		ail(from Quebec) 0.79/pc.
+		olives(from USA) $2.49 (398g)
+
+	Category: Produits Laitiers
+		lait(from Quebec) 2.99/pc.
+		fromage(from Quebec) $6.99 (320g)
+		oeufs(from Quebec) 3.59/pc.
+
+	Category: Epices
+		basilic(from Quebec) $2 (21g)
+
+	Category: Fruits
+		banane(from Guatemala) $1.96 (1000g)
+		poire(from USA) $1.99 (1000g)
+		orange(from USA) 1.49/pc.
+		pomme(from Quebec) $5.49 (1000g)
+		bleuet(from Mexique) 1.99/pc.
+
+
+Looking for pizza in the LOG1410 Recipe Book
+Pizza recipe found!
+Here is the recipe: 
+Recipe: pizza
+Ingredients: 
+	Recipe: croute
+	Ingredients: 
+		farine tamisee
+		eau tiede
+		levure 
+		sucre 
+		sel 
+		huile 
+	Steps:
+		1 Preparer le levain.
+			1 Melanger l'eau tiede, la levure et le sucre.
+			2 Laisser reposer 5 minutes.
+		2 Melanger la farine et le sel dans un robot culinaire.
+		3 Ajouter le melange d'eau et de levure dans le robot culinaire et petrir pendant 5 minutes.
+		4 Huiler un grand bol et deposer la pate petrie en boule dans le bol.
+		5 Recouvrir le bol d'un linge et laisser gonfler la pate au moins 2 heures.
+	Recipe: sauce tomate
+	Ingredients: 
+		tomates broyees
+		oignons tranches
+		ail ecrase
+		huile 
+		basilic cisele
+	Steps:
+		1 Hacher finement les oignons et l'ail
+		2 Faire revenir les oignons et l'ail dans l'huile pendant 4 minutes
+		3 Ajouter les tomates broyees et le basilic.
+		4 Porter a petite ebullition.
+		5 Faire mijoter doucement pendant une heure en brassant regulierement.
+	oignons tranches
+	olives tranchees
+	fromage rape
+Steps:
+	1 Rouler la pate en un cercle de 45cm de diametre.
+	2 Precuire la pate dans un four tres chaud (425F/220C) pendant 7 minutes.
+	3 Etendre uniformement la sauce tomate sur la croute precuite.
+	4 Repartir uniformement les oignons et olives.
+	5 Recouvrir du fromage rape.
+	6 Remettre au four pour 10 a 12 minutes.
+
+Impression du livre au complet: 
+Recipe: The LOG1410 Recipe Book
+Ingredients: 
+	Recipe: croute
+	Ingredients: 
+		farine tamisee
+		eau tiede
+		levure 
+		sucre 
+		sel 
+		huile 
+	Steps:
+		1 Preparer le levain.
+			1 Melanger l'eau tiede, la levure et le sucre.
+			2 Laisser reposer 5 minutes.
+		2 Melanger la farine et le sel dans un robot culinaire.
+		3 Ajouter le melange d'eau et de levure dans le robot culinaire et petrir pendant 5 minutes.
+		4 Huiler un grand bol et deposer la pate petrie en boule dans le bol.
+		5 Recouvrir le bol d'un linge et laisser gonfler la pate au moins 2 heures.
+	Recipe: sauce tomate
+	Ingredients: 
+		tomates broyees
+		oignons tranches
+		ail ecrase
+		huile 
+		basilic cisele
+	Steps:
+		1 Hacher finement les oignons et l'ail
+		2 Faire revenir les oignons et l'ail dans l'huile pendant 4 minutes
+		3 Ajouter les tomates broyees et le basilic.
+		4 Porter a petite ebullition.
+		5 Faire mijoter doucement pendant une heure en brassant regulierement.
+	Recipe: pizza
+	Ingredients: 
+		Recipe: croute
+		Ingredients: 
+			farine tamisee
+			eau tiede
+			levure 
+			sucre 
+			sel 
+			huile 
+		Steps:
+			1 Preparer le levain.
+				1 Melanger l'eau tiede, la levure et le sucre.
+				2 Laisser reposer 5 minutes.
+			2 Melanger la farine et le sel dans un robot culinaire.
+			3 Ajouter le melange d'eau et de levure dans le robot culinaire et petrir pendant 5 minutes.
+			4 Huiler un grand bol et deposer la pate petrie en boule dans le bol.
+			5 Recouvrir le bol d'un linge et laisser gonfler la pate au moins 2 heures.
+		Recipe: sauce tomate
+		Ingredients: 
+			tomates broyees
+			oignons tranches
+			ail ecrase
+			huile 
+			basilic cisele
+		Steps:
+			1 Hacher finement les oignons et l'ail
+			2 Faire revenir les oignons et l'ail dans l'huile pendant 4 minutes
+			3 Ajouter les tomates broyees et le basilic.
+			4 Porter a petite ebullition.
+			5 Faire mijoter doucement pendant une heure en brassant regulierement.
+		oignons tranches
+		olives tranchees
+		fromage rape
+	Steps:
+		1 Rouler la pate en un cercle de 45cm de diametre.
+		2 Precuire la pate dans un four tres chaud (425F/220C) pendant 7 minutes.
+		3 Etendre uniformement la sauce tomate sur la croute precuite.
+		4 Repartir uniformement les oignons et olives.
+		5 Recouvrir du fromage rape.
+		6 Remettre au four pour 10 a 12 minutes.
+Steps:
+
